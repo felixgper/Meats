@@ -42,8 +42,6 @@ Según lo solicitado en líneas anteriores, hemos optado por estos modelos que e
 
 🍖 XGBoost
 
-🥓ARIMA
-
 
 
 ## 👨 Authors
